@@ -1,1 +1,13 @@
-Dit is het nieuwe readme bestand
+Dit is een project voor web 3.0.
+
+Opdracht:
+
+Maak met Ruby on Rails een webapplicatie die de aanwezigheden van studenten 
+tijdens labozittingen kan opnemen en bijhouden. U gebruikt als achterliggende 
+database MySQL. Deze opgave is volledig individueel te maken. U kan/mag natuurlijk 
+altijd overleggen.
+Het spreekt voor zich dat een eerste stap naar de oplossing is om het project in 
+kleinere stappen te verdelen. Bij de beoordeling wordt enkel rekening gehouden met 
+elke afgewerkte stap. U maakt ZEKER gebruik van GitHub om de vorderingen in het 
+project bij te houden! Het meeste werk steek je in de functionaliteit en de User 
+Interface (UI) van de applicatie. De opmaak komt slechts op de tweede plaats!
